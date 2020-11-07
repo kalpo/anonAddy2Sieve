@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# Version 0.1a.2020.11.07
+# Writen by Kalpo
 
 import json, csv, sys, getopt, requests
 from tkinter import filedialog
